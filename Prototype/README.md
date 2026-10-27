@@ -3,7 +3,7 @@
 **Candidate:** Percyviarance Minsozi Simasiku (Student ID: 201061589)  
 **Supervisor:** Mrs. Johanna Nelulu  
 **Department:** Department of Computer Science, University of Namibia  
-**Degree:** Bachelor of Science in Computer Science (Honours) / Data Science  
+**Degree:** Bachelor of Data Science  (Honours)  
 **Timeline:** August 2026 – November 2026  
 
 ---
